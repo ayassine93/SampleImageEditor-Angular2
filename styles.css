@@ -1,0 +1,115 @@
+h1 {
+  color: darkred;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+body {
+     margin: 2em;
+     background: #5c755e;
+	 font-family: Arial, Helvetica, sans-serif;
+	 font-size: 13px;
+	 color: darkred;
+     text-align: left;
+}
+
+
+
+div {
+    margin-top : 10px;
+}
+
+h3{
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+}
+
+#right{
+    margin-right : 80px;
+}
+
+.available{
+    padding-left: 10px;
+    padding-right: 80px;
+}
+
+
+
+
+
+.button{
+    border: none;
+    border-radius: 8px;
+    background-color: #4CAF50;
+    font-size: 12px;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.heading{
+    margin-bottom: 10px;
+	height: 50px;
+	color: darkred;
+    background: #e5e4d7;
+	text-align: center;
+    border-radius: 5px;
+}
+
+.picture{
+    background: #e5e4d7;
+    margin-right:320;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.buttonsection1{
+    background: #e5e4d7;
+    margin-right:10px;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    float: right;
+    width: 100px;
+}
+
+.buttonsection2{
+    background: #e5e4d7;
+    margin-right:10px;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    float: right;
+    width: 100px;
+}
+
+.resetbutton{
+    border: none;
+    border-radius: 8px;
+    background-color: red;
+    font-size: 12px;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.uploadedimage{
+    margin-top: 110px;
+    margin-bottom: 110px;
+    margin-left: 200px;
+}
